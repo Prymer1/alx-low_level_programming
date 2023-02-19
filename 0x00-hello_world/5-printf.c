@@ -2,7 +2,6 @@
 /** main - prints "with proper grammer, but the outcome is a piece
  * of art," followed newline
  * Return: Alawsys 0.
- *
  */
 
 int main(void)
