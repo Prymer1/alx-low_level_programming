@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-/** main - prints "with proper grammer, but the outcome is 
+/** main - prints "with proper grammer, but the outcome is
  * a piece of art," followed by a new line.
- * Return: Alawsys 0.
+ * Return: Always 0.
  */
 
 int main(void)
