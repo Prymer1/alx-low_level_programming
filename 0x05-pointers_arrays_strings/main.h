@@ -1,5 +1,8 @@
-fndef MAIN_H
+#ifndef MAIN_H
 #define MAIN_H
+
+#include <stdio.h>
+#include <unistd.h>
 
 /* This a header file containing declarations
  * for prototype functions defined in the 0x05-more-functions_nested_loops
