@@ -4,7 +4,7 @@
 
 /**
  * main - performs imple operations and print result
- * @argc: number of arguments passed	
+ * @argc: number of arguments passed
  * @argv: array of pointers to arguments
  *
  * Return: 0
