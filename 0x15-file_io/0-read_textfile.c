@@ -6,7 +6,7 @@
 #include <stdlib.h>
 
 /*
- * * read_textfile - reads a text file and prints it to 
+ * * read_textfile - reads a text file and prints it to
  * the POSIX standard output
  * Return: 0 if failure, Else actual number of letters it could read and print
  */
